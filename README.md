@@ -45,3 +45,9 @@
 - Detailed classification report per fruit class
 
 - Grad-CAM highlights core fruit regions → reliable understanding
+
+  ### 👨‍💻 Author
+
+   **Aswin Kumar D**
+
+💌 *AI/ML Enthusiast | Deep Learning Developer*
